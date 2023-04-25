@@ -1,4 +1,3 @@
-
 number = int(input("Enter number 4 digit number:"))
 a = number//1000
 print (a)
